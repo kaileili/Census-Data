@@ -4,7 +4,7 @@
 Census Bureau
 ====================
 
-providing current facts and figures about America's people, places, and economy.
+Providing current facts and figures about America's people, places, and economy.
 
 [![Build Status](https://secure.travis-ci.org/unitedstates/congress-legislators.png)](http://travis-ci.org/unitedstates/congress-legislators)
 
